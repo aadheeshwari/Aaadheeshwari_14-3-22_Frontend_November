@@ -1,0 +1,4 @@
+4)  What is DOM? What is the use of document object?
+
+        => DOM(Document Object Model)
+        =>  A document object represents the HTML document. It can be used to access and change the content of HTML.

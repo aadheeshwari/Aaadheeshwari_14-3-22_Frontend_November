@@ -1,0 +1,6 @@
+2)  What is the difference between View state and Session state?
+
+
+
+             "View state" is specific to a page in a session whereas "Session state" is specific to a user or browser that 
+can be accessed across all pages in the web application.
